@@ -329,6 +329,20 @@
       }
     },
     {
+      "name": "tab-queue",
+      "source": {
+        "source": "github",
+        "repo": "lucas-saldanha-werneck/tab-queue"
+      },
+      "description": "One Chrome window on your Mac becomes a queue on your phone. Done closes the tab on the Mac.",
+      "category": "mac",
+      "homepage": "https://github.com/lucas-saldanha-werneck/tab-queue",
+      "author": {
+        "name": "Lucas Saldanha Werneck",
+        "url": "https://github.com/lucas-saldanha-werneck"
+      }
+    },
+    {
       "name": "api-credit",
       "source": {
         "source": "github",
