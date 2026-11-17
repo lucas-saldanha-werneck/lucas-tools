@@ -72,6 +72,7 @@ Then install the ones you want, for example:
 
 - **[mac-remote](https://github.com/lucas-saldanha-werneck/mac-remote)** ([demo](https://lucas-saldanha-werneck.github.io/mac-remote/demo.mp4)): lets Claude see and control your Mac through Screen Sharing, even when it is locked. Read its warning before you install.
 - **[launchd-agenda](https://github.com/lucas-saldanha-werneck/launchd-agenda)** ([demo](https://lucas-saldanha-werneck.github.io/launchd-agenda/demo.mp4)): schedules Claude Code sessions on your Mac with launchd, with your local skills and hooks.
+- **[tab-queue](https://github.com/lucas-saldanha-werneck/tab-queue)**: one Chrome window on your Mac becomes a queue you see on your phone; Done closes the tab on the Mac, without stealing the screen.
 
 ## Scripts
 
