@@ -49,6 +49,20 @@
       }
     },
     {
+      "name": "subsessions",
+      "source": {
+        "source": "github",
+        "repo": "lucas-saldanha-werneck/subsessions"
+      },
+      "description": "Run long tasks in Code Mode in a separate Claude Code session, driven from a session that keeps Remote Control on.",
+      "category": "sessions",
+      "homepage": "https://github.com/lucas-saldanha-werneck/subsessions",
+      "author": {
+        "name": "Lucas Saldanha Werneck",
+        "url": "https://github.com/lucas-saldanha-werneck"
+      }
+    },
+    {
       "name": "session-archive",
       "source": {
         "source": "github",
