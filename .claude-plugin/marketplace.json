@@ -369,6 +369,20 @@
         "name": "Lucas Saldanha Werneck",
         "url": "https://github.com/lucas-saldanha-werneck"
       }
+    },
+    {
+      "name": "chrome-focus-guard",
+      "source": {
+        "source": "github",
+        "repo": "lucas-saldanha-werneck/chrome-focus-guard"
+      },
+      "description": "Blocks scripts that steal focus from the automation Chrome, unless you approve one.",
+      "category": "guards",
+      "homepage": "https://github.com/lucas-saldanha-werneck/chrome-focus-guard",
+      "author": {
+        "name": "Lucas Saldanha Werneck",
+        "url": "https://github.com/lucas-saldanha-werneck"
+      }
     }
   ]
 }
