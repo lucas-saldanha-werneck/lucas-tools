@@ -3,7 +3,7 @@
 [![validate](https://github.com/lucas-saldanha-werneck/lucas-tools/actions/workflows/test.yml/badge.svg)](https://github.com/lucas-saldanha-werneck/lucas-tools/actions/workflows/test.yml)
 [![License](https://img.shields.io/github/license/lucas-saldanha-werneck/lucas-tools)](LICENSE)
 
-26 AI tools for Claude Code (skills, hooks, mods and commands): Claude checks its own work and learns from your corrections; sessions survive restarts and /clear, get archived before deletion, and open from your phone or a terminal; side panes for assumptions and ideas; secrets from password managers; Mac control even when locked; scheduled runs; multi-LLM opinions; blocked-site access.
+27 AI tools for Claude Code (skills, hooks, mods and commands): Claude checks its own work and learns from your corrections; sessions survive restarts and /clear, get archived before deletion, and open from your phone or a terminal; side panes for assumptions and ideas; secrets from password managers; Mac control even when locked; scheduled runs; multi-LLM opinions; blocked-site access; a guard that keeps automation from stealing your screen focus.
 
 Four of them in 30 seconds each. Tap a GIF to open the video; every plugin below has a demo link.
 
