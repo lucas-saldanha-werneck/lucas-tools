@@ -53,6 +53,7 @@ Then install the ones you want, for example:
 
 - **[give-up-guard](https://github.com/lucas-saldanha-werneck/give-up-guard)** ([demo](https://lucas-saldanha-werneck.github.io/give-up-guard/demo.mp4)): sends Claude back to check when it ends with "didn't check", gives up, or asks you for data it could find.
 - **[wait-loop-guard](https://github.com/lucas-saldanha-werneck/wait-loop-guard)** ([demo](https://lucas-saldanha-werneck.github.io/wait-loop-guard/demo.mp4)): blocks Bash wait loops with no deadline, so Claude can't hang forever.
+- **[chrome-focus-guard](https://github.com/lucas-saldanha-werneck/chrome-focus-guard)**: blocks scripts that steal focus from the automation Chrome, unless you approve one.
 - **[self-improve](https://github.com/lucas-saldanha-werneck/self-improve)** ([demo](https://lucas-saldanha-werneck.github.io/self-improve/demo.mp4)): finds where you corrected Claude more than once and proposes the fix in `CLAUDE.md`, a skill or memory. Small fixes apply alone; the rest wait for your OK.
 - **[polish](https://github.com/lucas-saldanha-werneck/polish)** ([demo](https://lucas-saldanha-werneck.github.io/polish/demo.mp4)): a simplicity review in the style of Linear or Apple Notes: every change with its UX, DX and AX gain, applied only after you pick.
 - **[llm-council](https://github.com/lucas-saldanha-werneck/llm-council)** ([demo](https://lucas-saldanha-werneck.github.io/llm-council/demo.mp4)): asks several LLMs through OpenRouter; they rank each other's answers and one writes the final answer. Uses your OpenRouter credits.
