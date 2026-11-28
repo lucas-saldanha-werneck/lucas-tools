@@ -3,7 +3,7 @@
 [![validate](https://github.com/lucas-saldanha-werneck/lucas-tools/actions/workflows/test.yml/badge.svg)](https://github.com/lucas-saldanha-werneck/lucas-tools/actions/workflows/test.yml)
 [![License](https://img.shields.io/github/license/lucas-saldanha-werneck/lucas-tools)](LICENSE)
 
-27 AI tools for Claude Code (skills, hooks, mods and commands): Claude checks its own work and learns from your corrections; sessions survive restarts and /clear, get archived before deletion, and open from your phone or a terminal; side panes for assumptions and ideas; secrets from password managers; Mac control even when locked; scheduled runs; multi-LLM opinions; blocked-site access; a guard that keeps automation from stealing your screen focus.
+28 AI tools for Claude Code (skills, hooks, mods and commands): Claude checks its own work and learns from your corrections; sessions survive restarts and /clear, get archived before deletion, and open from your phone or a terminal; side panes for assumptions and ideas; secrets from password managers; Mac control even when locked; scheduled runs; multi-LLM opinions; blocked-site access; a guard that keeps automation from stealing your screen focus.
 
 Four of them in 30 seconds each. Tap a GIF to open the video; every plugin below has a demo link.
 
@@ -40,6 +40,7 @@ Then install the ones you want, for example:
 - **[subsessions](https://github.com/lucas-saldanha-werneck/subsessions)**: run long tasks in Code Mode in a separate Claude Code session, started in hidden tmux and driven with cross-session messages from a session that keeps Remote Control on.
 - **[session-archive](https://github.com/lucas-saldanha-werneck/session-archive)** ([demo](https://lucas-saldanha-werneck.github.io/session-archive/demo.mp4)): copies each Claude Code conversation (a readable digest plus the full transcript) to an archive before Claude Code deletes old ones.
 - **[rc-auto](https://github.com/lucas-saldanha-werneck/rc-auto)** ([demo](https://lucas-saldanha-werneck.github.io/rc-auto/demo.mp4)): turns Remote Control on when you type in a desktop-app session, and off after 24 idle hours.
+- **[lavish-keeper](https://github.com/lucas-saldanha-werneck/lavish-keeper)**: keeps the Lavish review listener (`lavish-axi poll`) alive: stops it when the session closes and asks Claude to restart it when the session opens again.
 
 ## Side panes
 
