@@ -91,6 +91,20 @@
       }
     },
     {
+      "name": "lavish-keeper",
+      "source": {
+        "source": "github",
+        "repo": "lucas-saldanha-werneck/lavish-keeper"
+      },
+      "description": "Keeps the Lavish review listener (lavish-axi poll) alive: stops it when the Claude Code session closes and tells the agent to restart it when the session opens again.",
+      "category": "sessions",
+      "homepage": "https://github.com/lucas-saldanha-werneck/lavish-keeper",
+      "author": {
+        "name": "Lucas Saldanha Werneck",
+        "url": "https://github.com/lucas-saldanha-werneck"
+      }
+    },
+    {
       "name": "assumptions-pane",
       "source": {
         "source": "github",
